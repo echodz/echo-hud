@@ -9,7 +9,7 @@ This is a **echo-hud** designed for an immersive and clean user experience. It f
 ✅ **Speedometer** - Displays vehicle speed in **KPH/MPH**  
 ✅ **Gear Indicator** - Shows current gear while in a vehicle  
 ✅ **Health & Armor Bars** - Minimalistic status indicators  
-✅ **Mini-Map** - Cleanly integrated for easy navigation  
+✅ **Mini-Map** - Cleanly integrated for easy navigation And Modern Design  
 ✅ **Safezone Camera** - Safezone Camera Have Been Integrated To This Massive Hud   
 ✅ **Optimized for Performance** - Ensures smooth FPS with no unnecessary resource usage  
 
