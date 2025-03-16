@@ -3,7 +3,22 @@ New Hud With Safezone Camera Fully Designed By Echo
 
 For Better Experience You Should Not Change Script Name !!
 
-This Hud Comes With A New Minimap Shown In Next Previews !
+This is a **echo-hud** designed for an immersive and clean user experience. It features a modern and minimalist UI with essential information displayed efficiently.
+
+### Features:
+✅ **Speedometer** - Displays vehicle speed in **KPH/MPH**  
+✅ **Gear Indicator** - Shows current gear while in a vehicle  
+✅ **Health & Armor Bars** - Minimalistic status indicators  
+✅ **Mini-Map** - Cleanly integrated for easy navigation  
+✅ **Notification Icons** - Quick-access status icons for various in-game functions  
+✅ **Optimized for Performance** - Ensures smooth FPS with no unnecessary resource usage  
+
+### Installation:
+1. Download the resource and extract it to your `resources` folder.  
+2. Add `start my-hud` to your `server.cfg`.  
+3. Restart your server and enjoy your new HUD!  
+
+Let me know if you need any modifications! 🚀
 
 Enjoy !
 
