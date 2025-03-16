@@ -15,7 +15,7 @@ This is a **echo-hud** designed for an immersive and clean user experience. It f
 
 ### Installation:
 1. Download the resource and extract it to your `resources` folder.  
-2. Add `start my-hud` to your `server.cfg`.  
+2. Add `start echo-hud` to your `server.cfg`.  
 3. Restart your server and enjoy your new HUD!  
 
 Let me know if you need any modifications! 🚀
